@@ -2,7 +2,7 @@
 
 ![header](https://user-images.githubusercontent.com/126787890/222468117-2c6d95d7-1e7c-4b34-92dc-93f8e3a217b2.jpg)
 
-Hello, my name is Pornthep Sangthongkhamsuk but you can call me Kaijeaw. I am a 3rd-year student at the Faculty of Computer Engineering (CPE) at the King Mongkut's University of Technology Thonburi (KMUTT) in Thailand. Welcome to the my blog, here is a collection of some of my work and projects that I did while studying.
+Hello, my name is Pornthep Sangthongkhamsuk but you can call me Kaijeaw. I am a 4th-year student at the Faculty of Computer Engineering (CPE) at the King Mongkut's University of Technology Thonburi (KMUTT) in Thailand. Welcome to my blog, here is a collection of some of my work and projects that I did while studying.
 
 🚀 I am interested in a full-stack developer, software application developer, and mobile application developer.
 
